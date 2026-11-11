@@ -1,16 +1,22 @@
-## Hi there 👋
+# KavRavan | کاوروان
 
-<!--
-**KavRavan/KavRavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### یک پلتفرم جامع برای دنیای روان‌شناسی
 
-Here are some ideas to get you started:
+کاوروان پروژه‌ای با هدف ارائه تجربه‌ای جامع،
+کاربردی و علمی در حوزه روان‌شناسی است.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## چشم‌انداز پروژه
+
+- آزمون‌ها و ارزیابی‌های روان‌شناختی
+- آموزش و محتوای روان‌شناسی
+- شناخت شخصیت و خودشناسی
+- سلامت روان و بهزیستی
+- ابزارهای کاربردی روان‌شناسی
+
+## وضعیت توسعه
+
+🚧 پروژه در مرحله طراحی و توسعه اولیه است.
+
+## زبان
+
+فارسی (Persian)
